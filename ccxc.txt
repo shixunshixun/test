@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hey
-ddd
-=======
-heyhey
->>>>>>> refs/heads/v1.0-branch
